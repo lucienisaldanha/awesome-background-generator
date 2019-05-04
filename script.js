@@ -1,3 +1,4 @@
+// this is the Javacript coding, need review!
 // In this exercise, we want to be able to get the value of the two inputs, color1 and color2,
 // changing also the web site background, and print these colors to be used later. h3 tag 
 // element will be used for printing the colors.
